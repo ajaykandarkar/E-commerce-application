@@ -16,6 +16,7 @@ export const DisplayElectronicData = () => {
                                 category={electronicData.category}
                                 image={electronicData.image}
                                 rating={electronicData.rating}
+                                description={electronicData.description}
                             />
                         </div>
                     ))

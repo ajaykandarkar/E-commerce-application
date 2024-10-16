@@ -1,0 +1,10 @@
+.container{
+    margin-top:100px ;
+    margin-inline: 26px ;
+}
+
+.card{
+    background-color: transparent;
+    perspective: 1000px;
+}
+
