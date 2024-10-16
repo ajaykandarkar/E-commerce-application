@@ -15,6 +15,7 @@ export const DisplayCart = () => {
                                     category={product.category}
                                     image={product.image}
                                     rating={product.rating}
+                                    description={product.description}
                                 />
                             </div>
                         ))

@@ -16,6 +16,7 @@ export const DisplayGwelery = () => {
                                 category={gweleryData.category}
                                 image={gweleryData.image}
                                 rating={gweleryData.rating}
+                                description={gweleryData.description}
                             />
                         </div>
                     ))

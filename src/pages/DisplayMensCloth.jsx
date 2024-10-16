@@ -16,6 +16,7 @@ export const DisplayMensCloth = () => {
                                 category={mensClothsData.category}
                                 image={mensClothsData.image}
                                 rating={mensClothsData.rating}
+                                description={mensClothsData.description}
                             />
                         </div>
                     ))
